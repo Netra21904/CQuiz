@@ -1,0 +1,617 @@
+[
+    {
+      "question": "Which of these is NOT a relational or logical operator?",
+      "option1": "=",
+      "option2": "||",
+      "option3": "==",
+      "option4": "!=",
+      "correctoption": 1,
+      "category": "C",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Out of the following, which one is not valid as an if-else statement?",
+      "option1": "if(char)x){}",
+      "option2": "if(x){}",
+      "option3": "if(func1(x)){}",
+      "option4": "if (if (x == 1)){}",
+      "correctoption": 4,
+      "category": "C",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "We cannot use the keyword ‘break’ simply within _________.",
+      "option1": "while",
+      "option2": "for",
+      "option3": "if-else",
+      "option4": "do-while",
+      "correctoption": 3,
+      "category": "C",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "The global variables are ____________.",
+      "option1": "external",
+      "option2": "internal",
+      "option3": "both internal and external",
+      "option4": "none of above",
+      "correctoption": 1,
+      "category": "C",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Out of the following operations, which one is not possible in the case of a register variable?",
+      "option1": "global declaration of the register variable",
+      "option2": "copying the value from the memory variable",
+      "option3": "reading any value into the register variable",
+      "option4": "all of above",
+      "correctoption": 4,
+      "category": "C",
+      "difficulty": "Easy"
+    },
+
+    {
+      "question": "The #include <stdio.h> is a ______________.",
+      "option1": "inclusion directive",
+      "option2": "file inclusion directive",
+      "option3": "preprocessor directive",
+      "option4": "none of above",
+      "correctoption": 3,
+      "category": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which of these properties of #define is false?",
+      "option1": "these always obey the scope rules",
+      "option2": "we can make use of a pointer to #define",
+      "option3": "the #define can be externally available",
+      "option4": "all of above",
+      "correctoption": 4,
+      "category": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "We can achieve the modulus for float by:",
+      "option1": "x%y",
+      "option2": "modulus(x,y)",
+      "option3": "fmod(x,y)",
+      "option4": "mod(x,y)",
+      "correctoption": 3,
+      "category": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which of the following are not standard header files in C?",
+      "option1": "stdio.h",
+      "option2": "stdlib.h",
+      "option3": "conio.h",
+      "option4": "none of above",
+      "correctoption": 4,
+      "category": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the 16-bit compiler allowable range for integer constants?",
+      "option1": "-3.4e38 to 3.4e38",
+      "option2": "-32767 to 32768",
+      "option3": "-32668 to 32667",
+      "option4": "-32768 to 32767",
+      "correctoption": 4,
+      "category": "C",
+      "difficulty": "Medium"
+    },
+
+    {
+      "question": "What is required in each C program?",
+      "option1": "the program must have at least one function.",
+      "option2": "the program does not require any function.",
+      "option3": "input data",
+      "option4": "output data",
+      "correctoption": 1,
+      "category": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which of the following comment is correct when a macro definition includes arguments?",
+      "option1": "the opening parenthesis should immediately follow the macro name.",
+      "option2": "there should be at least one blank between the macro name and the opening parenthesis.",
+      "option3": "there should be only one blank between the macro name and the opening parenthesis.",
+      "option4": "all of above",
+      "correctoption": 1,
+      "category": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Why is a macro used in place of a function?",
+      "option1": "it reduces execution time.",
+      "option2": "it reduces code size.",
+      "option3": "it increases execution time.",
+      "option4": "it increases code size.)",
+      "correctoption": 4,
+      "category": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "In the C language, the constant is defined _______.",
+      "option1": "before main",
+      "option2": "after main",
+      "option3": "anywhere, but starting on a new line.",
+      "option4": "none of above",
+      "correctoption": 3,
+      "category": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "A pointer is a memory address. Suppose the pointer variable has p address 1000, and that p is declared to have type int*, and an int is 4 bytes long. What address is represented by expression p + 2?",
+      "option1": "1002",
+      "option2": "1004",
+      "option3": "1006",
+      "option4": "1008",
+      "correctoption": 4,
+      "category": "C",
+      "difficulty": "Hard"
+    },
+
+
+    {
+      "question": "PHP stands for -",
+      "option1": "Hypertext Preprocessor",
+      "option2": "Pretext Hypertext Preprocessor",
+      "option3": "Personal Home Processor",
+      "option4": "None of the above",
+      "correctoption": 1,
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "question": " Who is known as the father of PHP?",
+      "option1": "Drek Kolkevi",
+      "option2": "List Barely",
+      "option3": "Rasmus Lerdrof",
+      "option4": "None of the above",
+      "correctoption": 3,
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Variable name in PHP starts with -",
+      "option1": "!",
+      "option2": "$",
+      "option3": "&",
+      "option4": "#",
+      "correctoption": 2,
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which of the following is used for concatenation in PHP?",
+      "option1": "+",
+      "option2": "*",
+      "option3": ".",
+      "option4": "append",
+      "correctoption": 3,
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which of the following starts with __ (double underscore) in PHP?",
+      "option1": "inbuild constants",
+      "option2": "user-defined constants",
+      "option3": "magic constants",
+      "option4": "default constants",
+      "correctoption": 3,
+      "category": "PHP",
+      "difficulty": "Easy"
+    },
+
+    {
+      "question": " Which of the following is the default file extension of PHP?",
+      "option1": ".php",
+      "option2": ".hphp",
+      "option3": ".xml",
+      "option4": ".html",
+      "correctoption": 1,
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which of the following is not a variable scope in PHP?",
+      "option1": "extern",
+      "option2": "local",
+      "option3": "static",
+      "option4": "global",
+      "correctoption": 1,
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which of the following is correct to add a comment in php?",
+      "option1": "& …… &",
+      "option2": "// ……",
+      "option3": "/* …… */",
+      "option4": "both (b) and (c)",
+      "correctoption": 4,
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which of the following is the use of strpos() function in PHP?",
+      "option1": "the strpos() function is used to search for the spaces in a string",
+      "option2": "the strpos() function is used to search for a number in a string",
+      "option3": "the strpos() function is used to search for a character/text in a string",
+      "option4": "the strpos() function is used to search for a capitalize character in a string",
+      "correctoption": 3,
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What does PEAR stands for?",
+      "option1": "PHP extension and application repository",
+      "option2": "PHP enhancement and application reduce",
+      "option3": "PHP event and application repository",
+      "option4": "None of the above",
+      "correctoption": 1,
+      "category": "PHP",
+      "difficulty": "Medium"
+    },
+
+    {
+      "question": "Which of the following is used to display the output in PHP?",
+      "option1": "echo",
+      "option2": "write",
+      "option3": "print",
+      "option4": "Both (a) and (c)",
+      "correctoption": 4,
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which of the following is the use of strlen() function in PHP?",
+      "option1": "the strlen() function returns the type of string",
+      "option2": "the strlen() function returns the length of string",
+      "option3": "the strlen() function returns the value of string",
+      "option4": "the strlen() function returns both value and type of string",
+      "correctoption": 2,
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which of the following is the correct way to create a function in PHP?",
+      "option1": "create myFunction()",
+      "option2": "new_function myFunction()",
+      "option3": "function myFunction()",
+      "option4": "None of the above",
+      "correctoption": 3,
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which of the following PHP function is used to generate unique id?",
+      "option1": "id()",
+      "option2": "mdid()",
+      "option3": "uniqueid()",
+      "option4": "None of above",
+      "correctoption": 3,
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which of the following is the correct use of the strcmp() function in PHP?",
+      "option1": "the strcmp() function is used to compare the strings excluding case",
+      "option2": "the strcmp() function is used to compare the uppercase strings",
+      "option3": "the strcmp() function is used to compare the lowercase strings",
+      "option4": "the strcmp() function is used to compare the strings including case",
+      "correctoption": 4,
+      "category": "PHP",
+      "difficulty": "Hard"
+    },
+
+
+    {
+      "question": "What is the maximum possible length of an identifier?",
+      "option1": "16",
+      "option2": "32",
+      "option3": "64",
+      "option4": "None of above",
+      "correctoption": 4,
+      "category": "PYTHON",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Who developed the Python language?",
+      "option1": "Zim Den",
+      "option2": "Guido van Rossum",
+      "option3": "Niene Stom}",
+      "option4": "Wick van Rossum",
+      "correctoption": 2,
+      "category": "PYTHON",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which of the following words cannot be a variable in python language?",
+      "option1": "_val",
+      "option2": "val",
+      "option3": "try",
+      "option4": "_try_",
+      "correctoption": 3,
+      "category": "PYTHON",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "In which year was the Python language developed?",
+      "option1": "1995",
+      "option2": "1972",
+      "option3": "1981",
+      "option4": "1989",
+      "correctoption": 4,
+      "category": "PYTHON",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which of the following operators is the correct option for power(ab)?",
+      "option1": "a ^ b",
+      "option2": "a**b",
+      "option3": "a ^ ^ b",
+      "option4": "a ^ * b",
+      "correctoption": 2,
+      "category": "PYTHON",
+      "difficulty": "Easy"
+    },
+
+    {
+      "question": "In which language is Python written",
+      "option1": "english",
+      "option2": "PHP",
+      "option3": "C",
+      "option4": "all of above",
+      "correctoption": 3,
+      "category": "PYTHON",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which one of the following is the correct extension of the Python file?",
+      "option1": ".py",
+      "option2": ".python",
+      "option3": ".p",
+      "option4": "none of above",
+      "correctoption": 1,
+      "category": "PYTHON",
+      "difficulty": "Medium"
+    },
+    {
+      "question": " In which year was the Python 3.0 version developed?",
+      "option1": "2008",
+      "option2": "2000",
+      "option3": "2010",
+      "option4": "2005",
+      "correctoption": 1,
+      "category": "PYTHON",
+      "difficulty": "Medium"
+    },
+    {
+      "question": " Which of the following statements is correct for variable names in Python language?",
+      "option1": "all variable names must begin with an underscore.",
+      "option2": "unlimited length",
+      "option3": "the variable name length is a maximum of 2.",
+      "option4": "all of the above",
+      "correctoption": 2,
+      "category": "PYTHON",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which of the following is not a keyword in Python language?",
+      "option1": "val",
+      "option2": "raise",
+      "option3": "try",
+      "option4": "with",
+      "correctoption": 1,
+      "category": "PYTHON",
+      "difficulty": "Medium"
+    },
+
+    {
+      "question": "What do we use to define a block of code in Python language?",
+      "option1": "key",
+      "option2": "brackets",
+      "option3": "indentation",
+      "option4": "none of above",
+      "correctoption": 3,
+      "category": "PYTHON",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which character is used in Python to make a single line comment?",
+      "option1": "/",
+      "option2": "//",
+      "option3": "#",
+      "option4": "!",
+      "correctoption": 3,
+      "category": "PYTHON",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Why does the name of local variables start with an underscore discouraged?",
+      "option1": "to identify the variable",
+      "option2": "it confuses the interpreter",
+      "option3": "it indicates a private variable of a class",
+      "option4": "none of these",
+      "correctoption": 3,
+      "category": "PYTHON",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the method inside the class in python language?",
+      "option1": "object",
+      "option2": "function",
+      "option3": "attribute",
+      "option4": "argument",
+      "correctoption": 2,
+        "category": "PYTHON",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which of the following statements is correct regarding the object-oriented programming concept in Python?",
+        "option1": "classes are real-world entities while objects are not real",
+        "option2": "objects are real-world entities while classes are not real",
+        "option3": "both objects and classes are real-world entities",
+        "option4": "all of above",
+        "correctoption": 2,
+        "category": "PYTHON",
+        "difficulty": "Hard"
+    },
+
+
+    {
+        "question": "Which of the following option leads to the portability and security of Java?",
+        "option1": "bytecode is executed by JVM",
+        "option2": "the applet makes the Java code secure and portable",
+        "option3": "use of exception handling",
+        "option4": "dynamic binding between objects",
+        "correctoption": 1,
+        "category": "JAVA",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which of the following is not a Java features?",
+        "option1": "dynamic",
+        "option2": "architecture neutral",
+        "option3": "use of pointers",
+        "option4": "object-oriented",
+        "correctoption": 3,
+        "category": "JAVA",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "The \u0021 article referred to as a",
+        "option1": "unicode escape sequence",
+        "option2": "octal escape",
+        "option3": "hexadecimal",
+        "option4": "line feed",
+        "correctoption": 1,
+        "category": "JAVA",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which of the following tool is used to generate API documentation in HTML format from doc comments in source code?",
+        "option1": "javap tool",
+        "option2": "javaw command",
+        "option3": "javadoc tool",
+        "option4": "javah command",
+        "correctoption": 3,
+        "category": "JAVA",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which of the following creates a List of 3 visible items and multiple selections abled?",
+        "option1": "new List(false, 3)",
+        "option2": "new List(3, true)",
+        "option3": "new List(true, 3)",
+        "option4": "new List(3, false)",
+        "correctoption": 2,
+        "category": "JAVA",
+        "difficulty": "Easy"
+    },
+
+    {
+        "question": "_____ is used to find and fix bugs in the Java programs.",
+        "option1": "JVM",
+        "option2": "JRE",
+        "option3": "JDK",
+        "option4": "JDB",
+        "correctoption": 4,
+        "category": "JAVA",
+        "difficulty": "Medium"
+    },
+    {
+        "question": " What is the return type of the hashCode() method in the Object class?",
+        "option1": "object",
+        "option2": "int",
+        "option3": "long",
+        "option4": "void",
+        "correctoption": 2,
+        "category": "JAVA",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which of the following is a valid long literal?",
+        "option1": "ABH8097",
+        "option2": "L990023",
+        "option3": "904423",
+        "option4": "0xnf029L",
+        "correctoption": 4,
+        "category": "JAVA",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which method of the Class.class is used to determine the name of a class represented by the class object as a String?",
+        "option1": "getClass()",
+        "option2": "intern()",
+        "option3": "getName()",
+        "option4": "toString()",
+        "correctoption": 3,
+        "category": "JAVA",
+        "difficulty": "Medium"
+    },
+    {
+        "question": " In which process, a local variable has the same name as one of the instance variables?",
+        "option1": "serialization",
+        "option2": "variable sadowing",
+        "option3": "abstraction",
+        "option4": "multi-threading",
+        "correctoption": 2,
+        "category": "JAVA",
+        "difficulty": "Medium"
+    },
+
+    {
+        "question":  "What does the expression float a = 35 / 0 return?",
+        "option1": "0",
+        "option2": "not a number",
+        "option3": "infinity",
+        "option4": "run time exception",
+        "correctoption": 3,
+        "category": "JAVA",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "We can achieve the modulus for float by:",
+        "option1": "x%y",
+        "option2": "modulus(x,y)",
+        "option3": "fmod(x,y)",
+        "option4": "mod(x,y)",
+        "correctoption": 3,
+        "category": "JAVA",
+        "difficulty": "Hard"
+    },
+    {
+        "question":  "Which of the following is true about the anonymous inner class?",
+        "option1": "it has only methods",
+        "option2": "objects can't be created",
+        "option3": "it has a fixed class name",
+        "option4": "it has no class name",
+        "correctoption": 4,
+        "category": "JAVA",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which package contains the Random class?",
+        "option1": "java.util package",
+        "option2": "java.lang package",
+        "option3": "java.awt package",
+        "option4": "java.io package",
+        "correctoption": 3,
+        "category": "JAVA",
+        "difficulty": "Hard"
+    },
+  {
+    "question": "What do you mean by nameless objects?",
+    "option1": "an object created by using the new keyword.",
+    "option2": "an object of a superclass created in the subclass.",
+    "option3": "an object without having any name but having a reference.",
+    "option4": "an object that has no reference.",
+    "correctoption": 4,
+    "category": "JAVA",
+    "difficulty": "Hard"
+  }
+]
+  
